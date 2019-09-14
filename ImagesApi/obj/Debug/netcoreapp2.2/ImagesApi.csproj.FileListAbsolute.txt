@@ -26,3 +26,17 @@
 /home/sergway/workspace/education/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.RazorTargetAssemblyInfo.cache
 /home/sergway/workspace/education/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.dll
 /home/sergway/workspace/education/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.pdb
+/home/sergway/test/ImageChallange/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.deps.json
+/home/sergway/test/ImageChallange/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.runtimeconfig.json
+/home/sergway/test/ImageChallange/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.runtimeconfig.dev.json
+/home/sergway/test/ImageChallange/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.dll
+/home/sergway/test/ImageChallange/ImagesApi/bin/Debug/netcoreapp2.2/ImagesApi.pdb
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.csprojAssemblyReference.cache
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.csproj.CoreCompileInputs.cache
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.RazorAssemblyInfo.cache
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.RazorAssemblyInfo.cs
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.AssemblyInfoInputs.cache
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.AssemblyInfo.cs
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.RazorTargetAssemblyInfo.cache
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.dll
+/home/sergway/test/ImageChallange/ImagesApi/obj/Debug/netcoreapp2.2/ImagesApi.pdb
